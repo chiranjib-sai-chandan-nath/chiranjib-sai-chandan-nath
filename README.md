@@ -2,9 +2,9 @@
 <!-- GitHub shows dark.svg in dark mode and light.svg in light mode automatically -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/light.svg">
-  <img alt="Chiranjib Sai Chandan Nath" src="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/main/light.svg">
+  <img alt="Chiranjib Sai Chandan Nath" src="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/main/light.svg">
 </picture>
 
 # 💫 About Me
@@ -34,8 +34,8 @@ My interests include penetration testing, cloud security, automation, and offens
 
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ChiranjibSaiChandanNath&theme=merko&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=ChiranjibSaiChandanNath&theme=merko&hide_border=true" alt="Sanu's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=chiranjib-sai-chandan-nath&theme=merko&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=chiranjib-sai-chandan-nath&theme=merko&hide_border=true" alt="Sanu's streak" />
 </picture>
 
 </div>
@@ -46,9 +46,9 @@ My interests include penetration testing, cloud security, automation, and offens
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/output/snake-light.svg" />
 </picture>
 
 </div>
@@ -58,7 +58,7 @@ My interests include penetration testing, cloud security, automation, and offens
      pushing projects.svg to a "projects" branch. Fill projects.json with AndroBrut and other tools. -->
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ChiranjibSaiChandanNath/ChiranjibSaiChandanNath/projects/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/chiranjib-sai-chandan-nath/chiranjib-sai-chandan-nath/projects/projects.svg" alt="Projects" />
 </div>
 
 <!-- ===== END ===== -->
